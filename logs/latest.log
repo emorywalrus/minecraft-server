@@ -1,5 +1,5 @@
-[13:27:48] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
-[13:27:48] [main/INFO]: Loading 89 mods:
+[13:33:02] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[13:33:02] [main/INFO]: Loading 89 mods:
 	- fabric-api 0.130.0+1.21.8
 	   |-- fabric-api-base 0.4.64+9ec45cd82c
 	   |-- fabric-api-lookup-api-v1 1.6.100+946bf4c32c
@@ -99,65 +99,61 @@
 	   \-- org_yaml_snakeyaml 2.2
 	- java 21
 	- minecraft 1.21.8
-[13:27:48] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/emory/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[13:27:48] [main/INFO]: Compatibility level set to JAVA_21
-[13:27:49] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[13:27:55] [main/WARN]: en_ is not a supported Floodgate language.
-[13:27:56] [main/INFO]: Loading extensions...
-[13:27:56] [main/INFO]: Loaded 0 extension(s)
-[13:27:56] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:27:56] [main/INFO]: Found new data pack fabric, loading it automatically
-[13:27:56] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
-[13:27:57] [main/INFO]: No existing world data, creating new world
-[13:27:58] [main/INFO]: Loaded 1407 recipes
-[13:27:58] [main/INFO]: Loaded 1520 advancements
-[13:27:57] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.370 ms
-[13:27:57] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[13:27:57] [Server thread/INFO]: Loading properties
-[13:27:57] [Server thread/INFO]: Default game type: SURVIVAL
-[13:27:57] [Server thread/INFO]: Generating keypair
-[13:27:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:27:57] [Server thread/INFO]: Using epoll channel type
-[13:27:57] [Server thread/INFO]: Preparing level "world"
-[13:28:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:28:00] [Worker-Main-10/INFO]: Preparing spawn area: 2%
-[13:28:01] [Worker-Main-13/INFO]: Preparing spawn area: 2%
-[13:28:01] [Worker-Main-15/INFO]: Preparing spawn area: 18%
-[13:28:02] [Worker-Main-5/INFO]: Preparing spawn area: 51%
-[13:28:02] [Worker-Main-14/INFO]: Preparing spawn area: 51%
-[13:28:02] [Server thread/INFO]: Time elapsed: 2123 ms
-[13:28:02] [Server thread/INFO]: Done (5.025s)! For help, type "help"
-[13:28:02] [Server thread/INFO]: Took 26ms to boot Floodgate
-[13:28:03] [Server thread/INFO]: ******************************************
-[13:28:03] [Server thread/INFO]: 
-[13:28:03] [Server thread/INFO]: Loading Geyser version 2.8.2-b891 (git-master-ca99ab7)
-[13:28:03] [Server thread/INFO]: 
-[13:28:03] [Server thread/INFO]: ******************************************
-[13:28:05] [GeyserServer-3-1/INFO]: Started Geyser on UDP port 19132
-[13:28:05] [Server thread/INFO]: Done (2.534s)! Run /geyser help for help!
-[13:28:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
-[13:29:04] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:29:14] [GeyserServerChild-4-1/INFO]: Player connected with username fingleberry1
-[13:29:14] [localSession-7-1/INFO]: fingleberry1 (logged in as: fingleberry1) has connected to the Java server
-[13:29:15] [pool-6-thread-1/INFO]: Floodgate player who is logged in as .fingleberry1 00000000-0000-0000-0009-01f232b2ad35 joined
-[13:29:15] [Server thread/INFO]: .fingleberry1[/172.22.224.1:0] logged in with entity id 52 at (10.5, 120.0, 1.5)
-[13:29:15] [Server thread/INFO]: Floodgate player logged in as .fingleberry1 joined (UUID: 00000000-0000-0000-0009-01f232b2ad35)
-[13:29:15] [Server thread/INFO]: .fingleberry1 joined the game
-[13:29:46] [GeyserServerChild-4-1/INFO]: fingleberry1 has disconnected from the Java server because of Bedrock client disconnected
-[13:29:46] [Geyser Fabric connection thread-6-2/INFO]: Floodgate player logged in as .fingleberry1 disconnected
-[13:29:46] [Server thread/INFO]: .fingleberry1 lost connection: Disconnected
-[13:29:46] [Server thread/INFO]: .fingleberry1 left the game
-[13:30:06] [Server thread/INFO]: Stopping the server
-[13:30:06] [Server thread/INFO]: Shutting down Geyser.
-[13:30:06] [Server thread/INFO]: Geyser shutdown successfully.
-[13:30:06] [WebSocketConnectReadThread-118/INFO]: The skin uploader has been closed
-[13:30:08] [Server thread/INFO]: Stopping server
-[13:30:08] [Server thread/INFO]: Saving players
-[13:30:08] [Server thread/INFO]: Saving worlds
-[13:30:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:30:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:30:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:30:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:33:02] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/emory/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[13:33:03] [main/INFO]: Compatibility level set to JAVA_21
+[13:33:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13:33:10] [main/WARN]: en_ is not a supported Floodgate language.
+[13:33:11] [main/INFO]: Loading extensions...
+[13:33:11] [main/INFO]: Loaded 0 extension(s)
+[13:33:11] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:33:13] [main/INFO]: Loaded 1407 recipes
+[13:33:13] [main/INFO]: Loaded 1520 advancements
+[13:33:13] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.637 ms
+[13:33:13] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[13:33:13] [Server thread/INFO]: Loading properties
+[13:33:13] [Server thread/INFO]: Default game type: SURVIVAL
+[13:33:13] [Server thread/INFO]: Generating keypair
+[13:33:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:33:13] [Server thread/INFO]: Using epoll channel type
+[13:33:12] [Server thread/INFO]: Preparing level "world"
+[13:33:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:33:14] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:33:14] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[13:33:14] [Server thread/INFO]: Time elapsed: 916 ms
+[13:33:14] [Server thread/INFO]: Done (1.353s)! For help, type "help"
+[13:33:14] [Server thread/INFO]: Took 31ms to boot Floodgate
+[13:33:14] [Server thread/INFO]: ******************************************
+[13:33:14] [Server thread/INFO]: 
+[13:33:14] [Server thread/INFO]: Loading Geyser version 2.8.2-b891 (git-master-ca99ab7)
+[13:33:14] [Server thread/INFO]: 
+[13:33:14] [Server thread/INFO]: ******************************************
+[13:33:17] [GeyserServer-3-1/INFO]: Started Geyser on UDP port 19132
+[13:33:17] [Server thread/INFO]: Done (2.728s)! Run /geyser help for help!
+[13:33:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
+[13:33:24] [GeyserServerChild-4-1/INFO]: Player connected with username fingleberry1
+[13:33:24] [localSession-7-1/INFO]: fingleberry1 (logged in as: fingleberry1) has connected to the Java server
+[13:33:24] [pool-6-thread-1/INFO]: Floodgate player who is logged in as .fingleberry1 00000000-0000-0000-0009-01f232b2ad35 joined
+[13:33:25] [Server thread/INFO]: .fingleberry1[/172.22.224.1:0] logged in with entity id 107 at (6.292199, 122.0, 7.875748)
+[13:33:25] [Server thread/INFO]: Floodgate player logged in as .fingleberry1 joined (UUID: 00000000-0000-0000-0009-01f232b2ad35)
+[13:33:25] [Server thread/INFO]: .fingleberry1 joined the game
+[13:33:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=8, y=122, z=8} class_2338{x=8, y=122, z=7}
+[13:34:04] [Server thread/INFO]: Stopping the server
+[13:34:04] [Server thread/INFO]: Shutting down Geyser.
+[13:34:04] [Server thread/INFO]: Kicking 1 player(s)
+[13:34:04] [Server thread/INFO]: Kicked all players!
+[13:34:04] [localSession-7-1/INFO]: fingleberry1 has disconnected from the Java server because of End of stream
+[13:34:04] [Geyser Fabric connection thread-6-2/INFO]: Floodgate player logged in as .fingleberry1 disconnected
+[13:34:04] [Server thread/INFO]: Geyser shutdown successfully.
+[13:34:05] [WebSocketConnectReadThread-122/INFO]: The skin uploader has been closed
+[13:34:06] [Server thread/INFO]: Stopping server
+[13:34:06] [Server thread/INFO]: Saving players
+[13:34:07] [Server thread/INFO]: .fingleberry1 lost connection: Server closed
+[13:34:07] [Server thread/INFO]: .fingleberry1 left the game
+[13:34:07] [Server thread/INFO]: Saving worlds
+[13:34:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:34:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:34:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:34:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:34:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:34:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:34:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
