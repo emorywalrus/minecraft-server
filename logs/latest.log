@@ -1,0 +1,167 @@
+[13:11:52] [main/INFO]: Loading Minecraft 1.21.8 with Fabric Loader 0.16.14
+[13:11:52] [main/INFO]: Loading 89 mods:
+	- fabric-api 0.130.0+1.21.8
+	   |-- fabric-api-base 0.4.64+9ec45cd82c
+	   |-- fabric-api-lookup-api-v1 1.6.100+946bf4c32c
+	   |-- fabric-biome-api-v1 16.0.11+946bf4c32c
+	   |-- fabric-block-api-v1 1.1.3+946bf4c32c
+	   |-- fabric-block-view-api-v2 1.0.31+946bf4c32c
+	   |-- fabric-command-api-v2 2.3.0+52fff9ec2c
+	   |-- fabric-content-registries-v0 10.0.18+946bf4c32c
+	   |-- fabric-convention-tags-v1 2.1.40+7f945d5b2c
+	   |-- fabric-convention-tags-v2 2.15.5+eb5df52f2c
+	   |-- fabric-crash-report-info-v1 0.3.15+946bf4c32c
+	   |-- fabric-data-attachment-api-v1 1.8.10+946bf4c32c
+	   |-- fabric-data-generation-api-v1 23.2.5+9fc9c3b12c
+	   |-- fabric-dimensions-v1 4.0.19+946bf4c32c
+	   |-- fabric-entity-events-v1 2.1.1+c9e472732c
+	   |-- fabric-events-interaction-v0 4.0.23+946bf4c32c
+	   |-- fabric-game-rule-api-v1 1.0.73+c64c9c5b2c
+	   |-- fabric-item-api-v1 11.4.3+946bf4c32c
+	   |-- fabric-item-group-api-v1 4.2.13+946bf4c32c
+	   |-- fabric-key-binding-api-v1 1.0.65+946bf4c32c
+	   |-- fabric-lifecycle-events-v1 2.6.3+db4dfd852c
+	   |-- fabric-loot-api-v2 3.0.55+3f89f5a52c
+	   |-- fabric-loot-api-v3 2.0.2+946bf4c32c
+	   |-- fabric-message-api-v1 6.1.1+946bf4c32c
+	   |-- fabric-model-loading-api-v1 5.2.5+946bf4c32c
+	   |-- fabric-networking-api-v1 5.0.1+946bf4c32c
+	   |-- fabric-object-builder-api-v1 21.1.7+946bf4c32c
+	   |-- fabric-particles-v1 4.1.7+946bf4c32c
+	   |-- fabric-recipe-api-v1 8.1.14+946bf4c32c
+	   |-- fabric-registry-sync-v0 6.1.27+946bf4c32c
+	   |-- fabric-renderer-api-v1 7.0.2+946bf4c32c
+	   |-- fabric-renderer-indigo 4.0.2+946bf4c32c
+	   |-- fabric-rendering-fluids-v1 3.1.30+fa6cb72b2c
+	   |-- fabric-rendering-v1 12.4.0+e8d43c762c
+	   |-- fabric-resource-conditions-api-v1 5.0.24+946bf4c32c
+	   |-- fabric-resource-loader-v0 3.1.11+946bf4c32c
+	   |-- fabric-screen-api-v1 2.1.0+277ecf7d2c
+	   |-- fabric-screen-handler-api-v1 1.3.136+946bf4c32c
+	   |-- fabric-sound-api-v1 1.0.42+946bf4c32c
+	   |-- fabric-tag-api-v1 1.2.1+946bf4c32c
+	   |-- fabric-transfer-api-v1 6.0.5+946bf4c32c
+	   \-- fabric-transitive-access-wideners-v1 6.4.1+ac3e15d12c
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- floodgate 2.2.5-SNAPSHOT
+	   |-- aopalliance_aopalliance 1.0
+	   |-- com_google_guava_failureaccess 1.0.1
+	   |-- fabric-permissions-api-v0 0.4.1-SNAPSHOT
+	   |-- jakarta_inject_jakarta_inject-api 2.0.1
+	   |-- javax_inject_javax_inject 1
+	   |-- org_geysermc_cumulus_cumulus 1.1.2
+	   |-- org_geysermc_event_events 1.1-SNAPSHOT
+	   |-- org_geysermc_geyser_common_unshaded 2.2.1-SNAPSHOT
+	   |-- org_java-websocket_java-websocket 1.5.2
+	   \-- org_lanternpowered_lmbda 2.0.0
+	- geyser-fabric 2.8.2-SNAPSHOT
+	   |-- cloud 2.0.0-beta.12
+	   |    |-- io_leangen_geantyref_geantyref 1.3.15
+	   |    |-- org_incendo_cloud-brigadier 2.0.0-beta.11
+	   |    |-- org_incendo_cloud-core 2.0.0
+	   |    |-- org_incendo_cloud-minecraft-modded-common-fabric-repack 2.0.0-beta.12
+	   |    \-- org_incendo_cloud-services 2.0.0
+	   |-- com_fasterxml_jackson_core_jackson-annotations 2.18.0
+	   |-- com_fasterxml_jackson_core_jackson-core 2.18.0
+	   |-- com_fasterxml_jackson_core_jackson-databind 2.18.0
+	   |-- com_fasterxml_jackson_dataformat_jackson-dataformat-yaml 2.18.0
+	   |-- com_google_errorprone_error_prone_annotations 2.27.0
+	   |-- com_nukkitx_natives 1.0.3
+	   |-- io_airlift_aircompressor 0.27
+	   |-- io_jsonwebtoken_jjwt-api 0.12.6
+	   |-- io_jsonwebtoken_jjwt-gson 0.12.6
+	   |-- io_jsonwebtoken_jjwt-impl 0.12.6
+	   |-- io_netty_netty-codec-haproxy 4.2.3
+	   |-- net_jodah_expiringmap 0.5.10
+	   |-- net_kyori_adventure-api 4.21.0
+	   |-- net_kyori_adventure-key 4.21.0
+	   |-- net_kyori_adventure-nbt 4.21.0
+	   |-- net_kyori_adventure-text-serializer-commons 4.21.0
+	   |-- net_kyori_adventure-text-serializer-gson 4.21.0
+	   |-- net_kyori_adventure-text-serializer-json 4.21.0
+	   |-- net_kyori_adventure-text-serializer-json-legacy-impl 4.21.0
+	   |-- net_kyori_adventure-text-serializer-legacy 4.21.0
+	   |-- net_kyori_adventure-text-serializer-plain 4.21.0
+	   |-- net_kyori_examination-api 1.3.0
+	   |-- net_kyori_examination-string 1.3.0
+	   |-- net_kyori_option 1.1.0
+	   |-- net_lenni0451_commons_httpclient 1.6.0
+	   |-- net_raphimc_minecraftauth 4.1.1
+	   |-- org_bitbucket_b_c_jose4j 0.9.6
+	   |-- org_cloudburstmc_math_api 2.0
+	   |-- org_cloudburstmc_math_immutable 2.0
+	   |-- org_cloudburstmc_nbt 3.0.3
+	   |-- org_geysermc_api_base-api 1.0.2
+	   |-- org_geysermc_cumulus_cumulus 1.1.2
+	   |-- org_geysermc_event_events 1.1-SNAPSHOT
+	   |-- org_lanternpowered_lmbda 2.0.0
+	   \-- org_yaml_snakeyaml 2.2
+	- java 21
+	- minecraft 1.21.8
+[13:11:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/emory/minecraft-server/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[13:11:52] [main/INFO]: Compatibility level set to JAVA_21
+[13:11:53] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[13:11:59] [main/WARN]: en_ is not a supported Floodgate language.
+[13:12:00] [main/INFO]: Loading extensions...
+[13:12:00] [main/INFO]: Loaded 0 extension(s)
+[13:12:00] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:12:00] [main/INFO]: Found new data pack fabric, loading it automatically
+[13:12:00] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[13:12:01] [main/INFO]: No existing world data, creating new world
+[13:12:02] [main/INFO]: Loaded 1407 recipes
+[13:12:02] [main/INFO]: Loaded 1520 advancements
+[13:12:02] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.751 ms
+[13:12:02] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[13:12:02] [Server thread/INFO]: Loading properties
+[13:12:02] [Server thread/INFO]: Default game type: SURVIVAL
+[13:12:02] [Server thread/INFO]: Generating keypair
+[13:12:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:12:02] [Server thread/INFO]: Using epoll channel type
+[13:12:02] [Server thread/INFO]: Preparing level "world"
+[13:12:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:12:05] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[13:12:06] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[13:12:06] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[13:12:07] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[13:12:07] [Worker-Main-1/INFO]: Preparing spawn area: 77%
+[13:12:07] [Server thread/INFO]: Time elapsed: 2085 ms
+[13:12:07] [Server thread/INFO]: Done (4.927s)! For help, type "help"
+[13:12:07] [Server thread/INFO]: Took 28ms to boot Floodgate
+[13:12:08] [Server thread/INFO]: ******************************************
+[13:12:08] [Server thread/INFO]: 
+[13:12:08] [Server thread/INFO]: Loading Geyser version 2.8.2-b891 (git-master-ca99ab7)
+[13:12:08] [Server thread/INFO]: 
+[13:12:08] [Server thread/INFO]: ******************************************
+[13:12:10] [GeyserServer-3-2/INFO]: Started Geyser on UDP port 19132
+[13:12:10] [Server thread/INFO]: Done (2.02s)! Run /geyser help for help!
+[13:12:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2915ms or 58 ticks behind
+[13:13:03] [GeyserServerChild-4-1/INFO]: Player connected with username fingleberry1
+[13:13:03] [localSession-7-1/INFO]: fingleberry1 (logged in as: fingleberry1) has connected to the Java server
+[13:13:04] [pool-6-thread-1/INFO]: Floodgate player who is logged in as .fingleberry1 00000000-0000-0000-0009-01f232b2ad35 joined
+[13:13:04] [Server thread/INFO]: .fingleberry1[/172.22.224.1:0] logged in with entity id 9 at (-17.5, 84.0, 24.5)
+[13:13:04] [Server thread/INFO]: Floodgate player logged in as .fingleberry1 joined (UUID: 00000000-0000-0000-0009-01f232b2ad35)
+[13:13:04] [Server thread/INFO]: .fingleberry1 joined the game
+[13:14:42] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-28, y=83, z=20} class_2338{x=-27, y=81, z=11}
+[13:14:43] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-28, y=83, z=20} class_2338{x=-28, y=83, z=11}
+[13:14:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-28, y=83, z=20} class_2338{x=-28, y=75, z=-7}
+[13:14:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-28, y=75, z=-9} class_2338{x=-28, y=75, z=-10}
+[13:14:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-28, y=75, z=-11} class_2338{x=-28, y=75, z=-12}
+[13:15:31] [GeyserServerChild-4-1/INFO]: fingleberry1 has disconnected from the Java server because of Bedrock client disconnected
+[13:15:31] [Geyser Fabric connection thread-6-2/INFO]: Floodgate player logged in as .fingleberry1 disconnected
+[13:15:31] [Server thread/INFO]: .fingleberry1 lost connection: Disconnected
+[13:15:31] [Server thread/INFO]: .fingleberry1 left the game
+[13:15:49] [Server thread/INFO]: Stopping the server
+[13:15:49] [Server thread/INFO]: Shutting down Geyser.
+[13:15:49] [Server thread/INFO]: Geyser shutdown successfully.
+[13:15:49] [WebSocketConnectReadThread-122/INFO]: The skin uploader has been closed
+[13:15:51] [Server thread/INFO]: Stopping server
+[13:15:51] [Server thread/INFO]: Saving players
+[13:15:51] [Server thread/INFO]: Saving worlds
+[13:15:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
