@@ -262,3 +262,240 @@
 [2025-08-04 16:16:13][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?168267 HTTP/1.1" 200 OK
 [2025-08-04 16:16:13][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?473229 HTTP/1.1" 200 OK
 [2025-08-04 16:16:14][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?449320 HTTP/1.1" 200 OK
+[2025-08-04 16:16:15][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?478691 HTTP/1.1" 200 OK
+[2025-08-04 16:16:16][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?887859 HTTP/1.1" 200 OK
+[2025-08-04 16:16:17][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?481229 HTTP/1.1" 200 OK
+[2025-08-04 16:16:18][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?469519 HTTP/1.1" 200 OK
+[2025-08-04 16:16:19][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?295674 HTTP/1.1" 200 OK
+[2025-08-04 16:16:20][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?91450 HTTP/1.1" 200 OK
+[2025-08-04 16:16:21][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?559328 HTTP/1.1" 200 OK
+[2025-08-04 16:16:22][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?593111 HTTP/1.1" 200 OK
+[2025-08-04 16:16:23][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?366947 HTTP/1.1" 200 OK
+[2025-08-04 16:16:23][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?38618 HTTP/1.1" 200 OK
+[2025-08-04 16:16:24][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?507828 HTTP/1.1" 200 OK
+[2025-08-04 16:16:26][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?802469 HTTP/1.1" 200 OK
+[2025-08-04 16:16:27][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?174764 HTTP/1.1" 200 OK
+[2025-08-04 16:16:28][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?858992 HTTP/1.1" 200 OK
+[2025-08-04 16:16:29][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?377468 HTTP/1.1" 200 OK
+[2025-08-04 16:16:30][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?322448 HTTP/1.1" 200 OK
+[2025-08-04 16:16:31][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?337952 HTTP/1.1" 200 OK
+[2025-08-04 16:16:32][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?365327 HTTP/1.1" 200 OK
+[2025-08-04 16:16:33][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?579496 HTTP/1.1" 200 OK
+[2025-08-04 16:16:34][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?253317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:34][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?644095 HTTP/1.1" 200 OK
+[2025-08-04 16:16:35][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?578835 HTTP/1.1" 200 OK
+[2025-08-04 16:16:36][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?480330 HTTP/1.1" 200 OK
+[2025-08-04 16:16:37][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?231677 HTTP/1.1" 200 OK
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?476070 HTTP/1.1" 200 OK
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x0/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x0/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x0/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x-1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x-1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x-2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x-2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x-3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x-3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x-4/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x-4/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-4/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x-5/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-5/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:38][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x-5/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:16:39][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?289657 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-5/z1/4.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-6/z1/4.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-7/z1/4.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-4/z1/4.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-4/z1/5.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-5/z1/5.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-6/z1/5.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-7/z1/5.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-8/z1/5.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-8/z1/4.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-8/z1/3.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-3/z1/4.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-3/z1/5.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-3/z1/6.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-4/z1/6.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-5/z1/6.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-6/z1/6.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-7/z1/6.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-8/z1/6.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-9/z1/6.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-9/z1/5.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-9/z1/4.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/tiles/0/x-9/z1/3.prbm?235317 HTTP/1.1" 200 OK
+[2025-08-04 16:16:40][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?353729 HTTP/1.1" 200 OK
+[2025-08-04 16:16:41][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?751358 HTTP/1.1" 200 OK
+[2025-08-04 16:16:43][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?293262 HTTP/1.1" 200 OK
+[2025-08-04 16:16:44][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?186748 HTTP/1.1" 200 OK
+[2025-08-04 16:16:44][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?331555 HTTP/1.1" 200 OK
+[2025-08-04 16:16:45][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?258186 HTTP/1.1" 200 OK
+[2025-08-04 16:16:46][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?174639 HTTP/1.1" 200 OK
+[2025-08-04 16:16:47][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?377673 HTTP/1.1" 200 OK
+[2025-08-04 16:16:48][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?876420 HTTP/1.1" 200 OK
+[2025-08-04 16:16:49][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?72971 HTTP/1.1" 200 OK
+[2025-08-04 16:16:50][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?522556 HTTP/1.1" 200 OK
+[2025-08-04 16:16:51][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?507094 HTTP/1.1" 200 OK
+[2025-08-04 16:16:52][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?861537 HTTP/1.1" 200 OK
+[2025-08-04 16:16:53][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?170151 HTTP/1.1" 200 OK
+[2025-08-04 16:16:54][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?162710 HTTP/1.1" 200 OK
+[2025-08-04 16:16:54][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?416943 HTTP/1.1" 200 OK
+[2025-08-04 16:16:55][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?45483 HTTP/1.1" 200 OK
+[2025-08-04 16:16:56][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?379279 HTTP/1.1" 200 OK
+[2025-08-04 16:16:57][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?238126 HTTP/1.1" 200 OK
+[2025-08-04 16:16:58][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?921295 HTTP/1.1" 200 OK
+[2025-08-04 16:16:59][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?821959 HTTP/1.1" 200 OK
+[2025-08-04 16:17:00][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?996383 HTTP/1.1" 200 OK
+[2025-08-04 16:17:02][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?492244 HTTP/1.1" 200 OK
+[2025-08-04 16:17:03][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?975736 HTTP/1.1" 200 OK
+[2025-08-04 16:17:04][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?288636 HTTP/1.1" 200 OK
+[2025-08-04 16:17:04][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?846980 HTTP/1.1" 200 OK
+[2025-08-04 16:17:05][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?85727 HTTP/1.1" 200 OK
+[2025-08-04 16:17:06][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?804620 HTTP/1.1" 200 OK
+[2025-08-04 16:17:07][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?129247 HTTP/1.1" 200 OK
+[2025-08-04 16:17:08][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?215792 HTTP/1.1" 200 OK
+[2025-08-04 16:17:09][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?958808 HTTP/1.1" 200 OK
+[2025-08-04 16:17:10][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?940162 HTTP/1.1" 200 OK
+[2025-08-04 16:17:11][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?482384 HTTP/1.1" 200 OK
+[2025-08-04 16:17:12][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?633542 HTTP/1.1" 200 OK
+[2025-08-04 16:17:13][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?336166 HTTP/1.1" 200 OK
+[2025-08-04 16:17:14][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?166580 HTTP/1.1" 200 OK
+[2025-08-04 16:17:14][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?982284 HTTP/1.1" 200 OK
+[2025-08-04 16:17:15][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?108399 HTTP/1.1" 200 OK
+[2025-08-04 16:17:16][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?370710 HTTP/1.1" 200 OK
+[2025-08-04 16:17:17][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?36766 HTTP/1.1" 200 OK
+[2025-08-04 16:17:18][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?945421 HTTP/1.1" 200 OK
+[2025-08-04 16:17:19][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?3662 HTTP/1.1" 200 OK
+[2025-08-04 16:17:21][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?857138 HTTP/1.1" 200 OK
+[2025-08-04 16:17:22][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?279680 HTTP/1.1" 200 OK
+[2025-08-04 16:17:23][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?186241 HTTP/1.1" 200 OK
+[2025-08-04 16:17:24][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?591503 HTTP/1.1" 200 OK
+[2025-08-04 16:17:24][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?127897 HTTP/1.1" 200 OK
+[2025-08-04 16:17:26][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?134875 HTTP/1.1" 200 OK
+[2025-08-04 16:17:28][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?320648 HTTP/1.1" 200 OK
+[2025-08-04 16:17:30][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?856392 HTTP/1.1" 200 OK
+[2025-08-04 16:17:32][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?205477 HTTP/1.1" 200 OK
+[2025-08-04 16:17:34][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?221903 HTTP/1.1" 200 OK
+[2025-08-04 16:17:35][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?547165 HTTP/1.1" 200 OK
+[2025-08-04 16:17:36][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?668313 HTTP/1.1" 200 OK
+[2025-08-04 16:17:38][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?146666 HTTP/1.1" 200 OK
+[2025-08-04 16:17:40][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?848738 HTTP/1.1" 200 OK
+[2025-08-04 16:17:42][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?389215 HTTP/1.1" 200 OK
+[2025-08-04 16:17:44][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?613527 HTTP/1.1" 200 OK
+[2025-08-04 16:17:46][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?80771 HTTP/1.1" 200 OK
+[2025-08-04 16:17:46][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?60999 HTTP/1.1" 200 OK
+[2025-08-04 16:17:48][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?121016 HTTP/1.1" 200 OK
+[2025-08-04 16:17:50][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?701119 HTTP/1.1" 200 OK
+[2025-08-04 16:17:52][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?105368 HTTP/1.1" 200 OK
+[2025-08-04 16:17:54][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?629615 HTTP/1.1" 200 OK
+[2025-08-04 16:17:56][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?78327 HTTP/1.1" 200 OK
+[2025-08-04 16:17:57][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?308380 HTTP/1.1" 200 OK
+[2025-08-04 16:17:58][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?105975 HTTP/1.1" 200 OK
+[2025-08-04 16:18:00][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?319631 HTTP/1.1" 200 OK
+[2025-08-04 16:18:02][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?306038 HTTP/1.1" 200 OK
+[2025-08-04 16:18:04][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?753038 HTTP/1.1" 200 OK
+[2025-08-04 16:18:06][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?247272 HTTP/1.1" 200 OK
+[2025-08-04 16:18:08][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?481488 HTTP/1.1" 200 OK
+[2025-08-04 16:18:08][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?841047 HTTP/1.1" 200 OK
+[2025-08-04 16:18:10][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?658845 HTTP/1.1" 200 OK
+[2025-08-04 16:18:12][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?216916 HTTP/1.1" 200 OK
+[2025-08-04 16:18:14][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?107881 HTTP/1.1" 200 OK
+[2025-08-04 16:18:16][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?87761 HTTP/1.1" 200 OK
+[2025-08-04 16:18:18][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?905655 HTTP/1.1" 200 OK
+[2025-08-04 16:18:19][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?322774 HTTP/1.1" 200 OK
+[2025-08-04 16:18:20][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?311590 HTTP/1.1" 200 OK
+[2025-08-04 16:18:22][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?170970 HTTP/1.1" 200 OK
+[2025-08-04 16:18:24][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?777295 HTTP/1.1" 200 OK
+[2025-08-04 16:18:26][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?180017 HTTP/1.1" 200 OK
+[2025-08-04 16:18:28][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?74024 HTTP/1.1" 200 OK
+[2025-08-04 16:18:29][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?126543 HTTP/1.1" 200 OK
+[2025-08-04 16:18:29][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?606040 HTTP/1.1" 200 OK
+[2025-08-04 16:18:30][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?997914 HTTP/1.1" 200 OK
+[2025-08-04 16:18:31][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?380775 HTTP/1.1" 200 OK
+[2025-08-04 16:18:32][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?82663 HTTP/1.1" 200 OK
+[2025-08-04 16:18:33][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-4/z-5.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:33][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-3/z-5.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:33][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x3/z-5.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:33][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-5/z-5.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:33][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?732478 HTTP/1.1" 200 OK
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x2/z3.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x1/z3.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x0/z3.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x0/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x0/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-1/z3.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x-1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x-1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-2/z3.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x-2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x-2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-3/z3.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x-3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x-3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-4/z3.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x-4/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x3/z3.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x-4/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/2/x-5/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/3/x-5/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x0/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-1/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-2/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-3/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-4/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-5/z4.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/tiles/1/x-5/z3.png?235317 HTTP/1.1" 204 No Content
+[2025-08-04 16:18:34][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?471786 HTTP/1.1" 200 OK
+[2025-08-04 16:18:36][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?902874 HTTP/1.1" 200 OK
+[2025-08-04 16:18:38][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?546308 HTTP/1.1" 200 OK
+[2025-08-04 16:18:40][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?593717 HTTP/1.1" 200 OK
+[2025-08-04 16:18:40][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?793386 HTTP/1.1" 200 OK
+[2025-08-04 16:18:42][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?159046 HTTP/1.1" 200 OK
+[2025-08-04 16:18:44][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?891642 HTTP/1.1" 200 OK
+[2025-08-04 16:18:46][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?864849 HTTP/1.1" 200 OK
+[2025-08-04 16:18:48][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?755565 HTTP/1.1" 200 OK
+[2025-08-04 16:18:50][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?823495 HTTP/1.1" 200 OK
+[2025-08-04 16:18:51][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?845284 HTTP/1.1" 200 OK
+[2025-08-04 16:18:52][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?217024 HTTP/1.1" 200 OK
+[2025-08-04 16:18:54][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?505151 HTTP/1.1" 200 OK
+[2025-08-04 16:18:56][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?988702 HTTP/1.1" 200 OK
+[2025-08-04 16:18:58][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?697253 HTTP/1.1" 200 OK
+[2025-08-04 16:19:00][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?512748 HTTP/1.1" 200 OK
+[2025-08-04 16:19:02][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?58669 HTTP/1.1" 200 OK
+[2025-08-04 16:19:02][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?185775 HTTP/1.1" 200 OK
+[2025-08-04 16:19:04][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?53762 HTTP/1.1" 200 OK
+[2025-08-04 16:19:06][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?469702 HTTP/1.1" 200 OK
+[2025-08-04 16:19:08][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?90601 HTTP/1.1" 200 OK
+[2025-08-04 16:19:10][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?202317 HTTP/1.1" 200 OK
+[2025-08-04 16:19:12][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?115772 HTTP/1.1" 200 OK
+[2025-08-04 16:19:13][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?903756 HTTP/1.1" 200 OK
+[2025-08-04 16:19:14][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?904230 HTTP/1.1" 200 OK
+[2025-08-04 16:19:16][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?612586 HTTP/1.1" 200 OK
+[2025-08-04 16:19:18][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?28441 HTTP/1.1" 200 OK
+[2025-08-04 16:19:20][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?411510 HTTP/1.1" 200 OK
+[2025-08-04 16:19:22][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?950651 HTTP/1.1" 200 OK
+[2025-08-04 16:19:24][INFO] /23.88.152.100 "GET /maps/verm/live/players.json?613261 HTTP/1.1" 200 OK
+[2025-08-04 16:19:24][INFO] /23.88.152.100 "GET /maps/verm/live/markers.json?484796 HTTP/1.1" 200 OK
