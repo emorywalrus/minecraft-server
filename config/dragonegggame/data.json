@@ -1,0 +1,14 @@
+{
+  "world": "minecraft:overworld",
+  "type": "NONE",
+  "position": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "randomized_position": {
+    "x": 4,
+    "y": -1,
+    "z": -15
+  }
+}
