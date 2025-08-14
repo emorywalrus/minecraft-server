@@ -1,14 +1,15 @@
 {
-  "world": "minecraft:overworld",
-  "type": "NONE",
+  "world": "minecraft:the_end",
+  "player_uuid": "079bccb3-c962-4673-9abc-609ce2dae915",
+  "type": "BLOCK",
   "position": {
-    "x": 0.0,
-    "y": 0.0,
-    "z": 0.0
+    "x": 0.5,
+    "y": 65.5,
+    "z": 0.5
   },
   "randomized_position": {
-    "x": 4,
-    "y": -1,
-    "z": -15
+    "x": 21,
+    "y": 75,
+    "z": 2
   }
 }

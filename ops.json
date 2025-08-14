@@ -4,5 +4,11 @@
     "name": "fingleberry1",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "079bccb3-c962-4673-9abc-609ce2dae915",
+    "name": "LegoExplorer",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
