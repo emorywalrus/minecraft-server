@@ -1,13 +1,22 @@
 {
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-08-04 02:29:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-08-04 02:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-08-04 02:26:50 +0000",
+      "minecraft:taiga": "2025-08-24 02:26:22 +0000",
+      "minecraft:river": "2025-08-04 02:29:41 +0000",
+      "minecraft:stony_shore": "2025-08-04 02:27:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-04 02:29:32 +0000"
     },
     "done": true
   },
@@ -28,14 +37,6 @@
       "in_water": "2025-08-04 02:29:32 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-08-04 02:26:50 +0000",
-      "minecraft:river": "2025-08-04 02:29:41 +0000",
-      "minecraft:stony_shore": "2025-08-04 02:27:25 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
